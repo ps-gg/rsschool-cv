@@ -1,2 +1,4 @@
 # rsschool-cv
-rs.school task
+
+https://ps-gg.github.io/rsschool-cv/
+
