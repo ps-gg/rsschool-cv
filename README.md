@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://ps-gg.github.io/rsschool-cv/cv
+https://ps-gg.github.io/rsschool-cv/
+
